@@ -28,6 +28,13 @@ This project analyzes pizza sales data to uncover key insights that can help imp
 - Top 5 best-selling pizzas with revenue breakdown.
 - Monthly revenue trends and seasonal patterns.
 
+### Power BI Dashboard Preview
+![Screenshot (11)](https://github.com/user-attachments/assets/9c223637-2ab7-407f-8db0-b5af9b7c7166)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/4d0e22aa-2a6d-4902-a30b-ce12becd0df6)
+
+
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
@@ -35,6 +42,9 @@ This project analyzes pizza sales data to uncover key insights that can help imp
    ```
    
 2. Open the Power BI dashboard to explore insights.
+
+## ✅ Conclusion / Recommendations
+The analysis suggests focusing promotions during weekends and evenings, maintaining higher inventory for top-selling pizzas, and considering combo deals or loyalty programs to boost weekday sales.
 
 ## 📧 Contact
 For queries or suggestions, reach out at (mailto:asuriyaprakash059@gmail.com).
